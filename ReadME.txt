@@ -1,5 +1,5 @@
 Hi! This File belongs to karthick.
-it contains Day 3 task file. 
+it contains Day 4 task file. 
 including 
     1.index.html
     2. script.js- file for solution 
