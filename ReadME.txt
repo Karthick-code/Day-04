@@ -14,7 +14,7 @@ I.do the below program in anonymous function & IIFE
     5. return all the palindromes in an array;
     6. return median of two sorted arrays of the same size.
     7. remove duplicates from an array.
-    8. rotate an array from an array.
+    8. rotate an array for k times.
 II. Arrow function.
     1. print odd numbers in an array.
     2. convert all the strings to the title caps in a string array
