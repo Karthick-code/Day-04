@@ -7,7 +7,7 @@
 5. return all the palindromes in an array;
 6. return median of two sorted arrays of the same size.
 7. remove duplicates from an array.
-8. rotate an array from an array.
+8. rotate an array for k times.
 */
 
 //1. Print odd number in array
@@ -223,7 +223,7 @@ var arr7=[1,32,54,78,8,79,3,56,3,654];
 var len=arr7.length;
 console.log("IIFE function",res7(arr7,len));
 
-//8. rotate an array from an array by k times.
+//8. rotate an array for k times.
 //8.1 Anonymous
 var arr8=[1,32,54,78,1234321,79,3,56,3,654];
 var k=3;
